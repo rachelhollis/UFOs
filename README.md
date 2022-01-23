@@ -15,3 +15,8 @@ UFO Sightings:
 
 Filters and the table:
 ![static/images/b.png](static/images/b.png)
+
+Using the filter search, you can filter by any combinations of the search criteria. For example: you can search only by date or by every category. The search criteria corresponds with the columns of the table. All but the last two columns, 'Duration' and 'Comments,' are available to filter. 
+
+Example of a filtered search:
+![static/images/filter_search.png](static/images/filter_search.png)
