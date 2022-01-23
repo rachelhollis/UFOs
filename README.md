@@ -10,3 +10,8 @@ Using the tools mentioned above, a dynamic webpage will be built in which the da
 
 ## Results
 
+UFO Sightings:
+![static/images/we.png](static/images/we.png)
+
+Filters and the table:
+![static/images/b.png](static/images/b.png)
